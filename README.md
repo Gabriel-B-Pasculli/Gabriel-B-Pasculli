@@ -1,7 +1,9 @@
-# Olá! Eu sou o Gabriel 👋
+## Olá! Eu sou o Gabriel 👋
 
 🎓 Estudante de desenvolvimentos de sistemas e tecnico em informática.
+
 💻 Focado em Python, SQL e Java.  
+
 🚀 Estudando para ser um desenvolvedor back-end
 
 ## 🧠 Linguagens que estou estudando

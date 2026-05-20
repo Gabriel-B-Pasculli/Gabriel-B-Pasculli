@@ -2,14 +2,14 @@
 
 🎓 Estudante de desenvolvimentos de sistemas e tecnico em informática.
 
-💻 Focado em Python, SQL e Java.  
+💻 Focado em Python, SQL, HTML, CSS e Java
 
 🚀 Estudando para ser um desenvolvedor back-end
 
 ## 🧠 Linguagens que estou estudando
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
